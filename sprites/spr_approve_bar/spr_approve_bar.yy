@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_approve_bar",
-  "bbox_bottom": 109,
+  "bbox_bottom": 0,
   "bbox_left": 0,
-  "bbox_right": 386,
+  "bbox_right": 0,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -15,8 +15,8 @@
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b6336635-e42a-491f-8de0-8e2ba759b9e0",},
   ],
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 77,
+  "gridY": 1,
   "height": 110,
   "HTile": false,
   "layers": [
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 387,
+  "width": 385,
 }

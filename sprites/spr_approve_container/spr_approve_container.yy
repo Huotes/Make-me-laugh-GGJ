@@ -4,7 +4,7 @@
   "name": "spr_approve_container",
   "bbox_bottom": 119,
   "bbox_left": 0,
-  "bbox_right": 399,
+  "bbox_right": 396,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -15,7 +15,7 @@
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8da6e26e-9718-4a73-9824-ce410218ee5d",},
   ],
-  "gridX": 64,
+  "gridX": 80,
   "gridY": 64,
   "height": 120,
   "HTile": false,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 400,
+  "width": 397,
 }
