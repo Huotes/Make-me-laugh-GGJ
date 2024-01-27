@@ -1,0 +1,1 @@
+draw_text(1822,39,"Score: " + string(global.mini_game_001_current_score))
