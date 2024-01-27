@@ -39,5 +39,7 @@
     {"name":"Scenes","order":4,"path":"folders/Objects/Scenes.yy",},
     {"name":"mini_game_1","order":1,"path":"folders/Objects/Mini Games/Medium/mini_game_1.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"scr_mouse_target","order":1,"path":"scripts/scr_mouse_target/scr_mouse_target.yy",},
+  ],
 }

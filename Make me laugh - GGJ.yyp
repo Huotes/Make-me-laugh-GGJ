@@ -57,6 +57,7 @@
     "IDEVersion": "2023.11.0.121",
   },
   "resources": [
+    {"id":{"name":"scr_mouse_target","path":"scripts/scr_mouse_target/scr_mouse_target.yy",},},
     {"id":{"name":"scr_fim_animacao","path":"scripts/scr_fim_animacao/scr_fim_animacao.yy",},},
     {"id":{"name":"rm_mini_game_1","path":"rooms/rm_mini_game_1/rm_mini_game_1.yy",},},
     {"id":{"name":"obj_config","path":"objects/obj_config/obj_config.yy",},},
