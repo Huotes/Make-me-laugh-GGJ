@@ -1,4 +1,4 @@
-# Jester, make me laugh! - Global Game Jam 2024
+# Half Baked Majesty! - Global Game Jam 2024
 
 ![Game Logo](link_to_logo.png)
 
@@ -8,7 +8,7 @@ This repository was created to store the game developed during the Global Game J
 
 ## Game Synopsis
 
-In "Jester, make me laugh!" you step into the shoes of a jester invited to entertain a grumpy king. Your challenge is to solve several mini-games, attempting to bring joy to the king. Will you succeed in making him laugh, or will you fail miserably in the attempt? Get ready for a whimsical adventure filled with laughter, challenges, and unexpected twists.
+In "Half Baked Majesty!" you step into the shoes of a jester invited to entertain a grumpy king. Your challenge is to solve several mini-games, attempting to bring joy to the king. Will you succeed in making him laugh, or will you fail miserably in the attempt? Get ready for a whimsical adventure filled with laughter, challenges, and unexpected twists.
 
 ## Team Members
 
