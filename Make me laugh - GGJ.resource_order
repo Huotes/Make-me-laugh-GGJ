@@ -48,6 +48,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Menu","order":1,"path":"folders/Sounds/Sound Effects/Menu.yy",},
     {"name":"Menu","order":1,"path":"folders/Sounds/Musics/Menu.yy",},
+    {"name":"mini_game_5","order":4,"path":"folders/Objects/Mini Games/Long/mini_game_5.yy",},
+    {"name":"mini_game_5","order":4,"path":"folders/Sprites/Mini Games/Long/mini_game_5.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_menu_exit_button","order":1,"path":"sprites/spr_menu_exit_button/spr_menu_exit_button.yy",},
