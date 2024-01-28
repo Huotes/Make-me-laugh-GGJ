@@ -1,15 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_destructble_object",
-  "eventList": [],
+  "name": "obj_menu_settings_button",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "mini_game_4",
-    "path": "folders/Objects/Mini Games/Long/mini_game_4.yy",
+    "name": "Menus",
+    "path": "folders/Objects/Menus.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_menu_button_parrent",
+    "path": "objects/obj_menu_button_parrent/obj_menu_button_parrent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_menu_settings_button",
+    "path": "sprites/spr_menu_settings_button/spr_menu_settings_button.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

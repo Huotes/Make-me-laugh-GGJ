@@ -1,0 +1,1 @@
+musica_abertura = snd_menu_music;
