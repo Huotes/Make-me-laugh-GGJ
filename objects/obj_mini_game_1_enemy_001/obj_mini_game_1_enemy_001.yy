@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_test_click",
-    "path": "sprites/spr_test_click/spr_test_click.yy",
+    "name": "spr_mini_game_1_king_face",
+    "path": "sprites/spr_mini_game_1_king_face/spr_mini_game_1_king_face.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -18,12 +18,13 @@ if (mouse_check_button_released(mb_left)) {
     // Para o arrasto
     dragging = false;
     
-    // Verifica se o objeto está próximo a obj_mini_game_2_target
-    var target = instance_nearest(x, y, obj_mini_game_2_target);
-    if (target != noone and point_distance(x, y, target.x, target.y) < 32) {
-        // Trava a posição no objeto target se estiver próximo o suficiente
-        x = target.x;
-        y = target.y;
+    // Verifica se o objeto está próximo a obj_mini_game_2__target
+    var _target = instance_nearest(x, y, obj_mini_game_2_target);
+    if (_target != noone and point_distance(x, y, _target.x, _target.y) < 32) {
+        // Trava a posição no objeto _target se estiver próximo o suficiente
+        x = _target.x;
+        y = _target.y;
+		colado = true;
     }
 }
 
@@ -31,4 +32,5 @@ if (mouse_check_button_released(mb_left)) {
 if (dragging) {
     x = mouse_x + offset_x;
     y = mouse_y + offset_y;
+	colado = false;
 }

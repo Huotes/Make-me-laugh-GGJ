@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_king_beard",
-    "path": "sprites/spr_king_beard/spr_king_beard.yy",
+    "name": "spr_king_piece_beard",
+    "path": "sprites/spr_king_piece_beard/spr_king_piece_beard.yy",
   },
   "spriteMaskId": null,
   "visible": true,
