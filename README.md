@@ -14,5 +14,5 @@ In "Jester, make me laugh!" you step into the shoes of a jester invited to enter
 
 - **[@huotes](https://discordapp.com/users/huotes) - Developer**
 - **[@zookbardo](https://discordapp.com/users/zookbardo) - Artist**
-- **[@8renni](https://discordapp.com/users/8renni) - Music Producer**
+- **[@w8bait](https://discordapp.com/users/8renni) - Music Producer**
 - **[@thiagoaguiar0088](https://discordapp.com/users/thiagoaguiar0088) - Artist and Game Designer**
