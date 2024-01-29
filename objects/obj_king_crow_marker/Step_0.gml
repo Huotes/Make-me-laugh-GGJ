@@ -1,0 +1,1 @@
+//if room == rm_main_scene {room_goto(rm_mini_game_1)}

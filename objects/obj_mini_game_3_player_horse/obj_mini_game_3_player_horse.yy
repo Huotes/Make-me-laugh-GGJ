@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mini_game_3_player_horse",
-    "path": "sprites/spr_mini_game_3_player_horse/spr_mini_game_3_player_horse.yy",
+    "name": "spr_mini_game_3_annoying_horse",
+    "path": "sprites/spr_mini_game_3_annoying_horse/spr_mini_game_3_annoying_horse.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_test_click_3",
-    "path": "sprites/spr_test_click_3/spr_test_click_3.yy",
+    "name": "spr_royal_guard_head",
+    "path": "sprites/spr_royal_guard_head/spr_royal_guard_head.yy",
   },
   "spriteMaskId": null,
   "visible": true,

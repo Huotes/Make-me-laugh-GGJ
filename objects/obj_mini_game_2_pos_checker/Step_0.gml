@@ -6,3 +6,7 @@ if	t_crow.x == obj_king_piece_crow.x and t_crow.y == obj_king_piece_crow.y and
 	t_right_mustache.x == obj_king_piece_right_mustache.x and t_right_mustache.y == obj_king_piece_right_mustache.y and
 	t_mouth.x == obj_king_piece_mouth.x and t_mouth.y == obj_king_piece_mouth.y and
 	t_beard.x == obj_king_piece_beard.x and t_beard.y == obj_king_piece_beard.y {global.correct_face = true}
+	
+	
+	if global.correct_face == true {scr_transition_caller(obj_transicao_sala_mg3)}
+	

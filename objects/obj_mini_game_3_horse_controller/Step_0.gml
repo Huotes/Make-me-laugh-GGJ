@@ -1,12 +1,13 @@
+if global.horse_game_finished == false {
 randomize();
 
-spd = choose(0,0.1,0.2,0.3,0.4,0.5,0.7,0.8,0.9);
+spd = choose(0.7,0.8,0.9);
 
 xspd = spd;
 
 x += xspd;
 
 
-if place_meeting(x + xspd,y,obj_mini_game_3_finish_line){spd = 0}
+if place_meeting(x + xspd,y,obj_mini_game_3_finish_line){spd = 0; global.horse_game_finished = true}}
 
-image_angle++;
+if global.horse_game_finished == true {room_goto(choose(rm_scene_lose,rm_scene_won))}

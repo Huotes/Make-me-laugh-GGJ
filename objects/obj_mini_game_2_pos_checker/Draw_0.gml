@@ -1,1 +1,1 @@
-draw_text(1630,95,string(global.correct_face))
+ 

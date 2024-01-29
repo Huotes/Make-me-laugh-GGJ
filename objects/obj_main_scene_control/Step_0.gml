@@ -1,0 +1,19 @@
+if instance_exists(obj_king_approve_bar) and instance_exists(obj_king_crow_marker){scr_transition_caller(obj_transicao_sala_mg1)}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

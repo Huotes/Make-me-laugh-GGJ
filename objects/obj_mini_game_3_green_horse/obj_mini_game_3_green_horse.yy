@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mini_game_3_green_horse",
-    "path": "sprites/spr_mini_game_3_green_horse/spr_mini_game_3_green_horse.yy",
+    "name": "spr_mini_game_3_strange_horse",
+    "path": "sprites/spr_mini_game_3_strange_horse/spr_mini_game_3_strange_horse.yy",
   },
   "spriteMaskId": null,
   "visible": true,

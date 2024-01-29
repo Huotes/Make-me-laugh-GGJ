@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_test_click_2",
-    "path": "sprites/spr_test_click_2/spr_test_click_2.yy",
+    "name": "spr_Jester_face",
+    "path": "sprites/spr_Jester_face/spr_Jester_face.yy",
   },
   "spriteMaskId": null,
   "visible": true,

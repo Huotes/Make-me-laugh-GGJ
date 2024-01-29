@@ -1,2 +1,2 @@
 event_inherited();
-my_score = 2;
+my_score = 1;

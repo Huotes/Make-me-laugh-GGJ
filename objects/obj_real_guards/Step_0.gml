@@ -1,0 +1,20 @@
+if room == rm_scene_won {sprite_index = soldadinhos2}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
